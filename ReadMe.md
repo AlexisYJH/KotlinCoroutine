@@ -438,7 +438,7 @@ SharedFlow会向其中收集值的所有使用方发出数据。
 数据从PagingSource来，Pager里设置PageConfig，加载完后会得到Flow，最后交给PagingDataAdapter更新UI
 
 # 项目实战（hilt + room + paging3 + coil + startup）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8b31501a4f68455eb73a3c52cbc352e9.png)
+![结构](https://img-blog.csdnimg.cn/8b31501a4f68455eb73a3c52cbc352e9.png)
 - Hilt注入网络相关对象
 - Hilt注入Room相关对象
 - Pager配置
